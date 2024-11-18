@@ -11,15 +11,15 @@ To become a hub of innovation, collaboration, and leadership in technology, insp
 ## Our Values
 Inspire Innovate Impact
 
-1. Inspire
+1. Inspire:
 Encourage curiosity and a passion for learning.
 Motivate members to explore the vast potential of technology.
 
-3. Innovate
+3. Innovate:
 Foster creativity to develop unique and efficient solutions.
 Embrace experimentation with cutting-edge tools and ideas.
 
-5. Impact
+5. Impact:
 Use technology to create meaningful change in the community.
 Lead initiatives that address real-world challenges effectively.
 ## Our Projects
