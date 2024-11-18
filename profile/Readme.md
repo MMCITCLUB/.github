@@ -39,7 +39,7 @@ To establish ourselves as a hub of innovation, collaboration, and leadership in 
 
 ## 🛠 **Our Projects**
 
-[Add details about ongoing or completed projects, such as hackathons, workshops, open-source contributions, or any innovative solutions developed by the club.]
+Coming Soon🌙
 
 ---
 
